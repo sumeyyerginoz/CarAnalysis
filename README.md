@@ -34,17 +34,22 @@ The dataset consists of **13,119 rows** and **7 columns**:
 
 ### 🖼️ Sample Visuals
 
-1. **Transmission Types Distribution (Pie Chart)** 🍰  
-   ![Transmission Distribution](./images/transmission_distribution.png)
+1. **Transmission Types Distribution**  
+<img width="234" alt="Ekran Resmi 2024-12-10 11 34 07" src="https://github.com/user-attachments/assets/53967d0d-aff3-4a38-9214-15940578f9e8">
 
-2. **Price Trend Analysis (Line Chart)** 📉  
-   ![Price Trend Analysis](./images/price_trend_analysis.png)
+2. **Price Trend Analysis**
+<img width="642" alt="Ekran Resmi 2024-12-10 11 34 38" src="https://github.com/user-attachments/assets/0861d3a3-d58e-4c19-9cec-e1847e8b653c">
 
-3. **Vehicle Count by Year (Bar Chart)** 📊  
-   ![Vehicle Count by Year](./images/vehicle_count_by_year.png)
+3. **Vehicle Price by Year (Bar Chart)**  
+<img width="425" alt="Ekran Resmi 2024-12-10 11 38 38" src="https://github.com/user-attachments/assets/a86df5d1-eff5-4d74-8db7-c20badf10330">
 
-4. **Average Prices by Year (Bar Chart)** 💲  
-   ![Average Prices by Year](./images/average_prices_by_year.png)
+
+4. **Average Prices by Year (Bar Chart)**
+<img width="401" alt="Ekran Resmi 2024-12-10 11 35 32" src="https://github.com/user-attachments/assets/7da9fd4c-b8d5-4eb9-ad06-6c8b265b9176">
+<br>
+<img width="411" alt="Ekran Resmi 2024-12-10 11 39 41" src="https://github.com/user-attachments/assets/75e17b33-406b-4bf6-b3b4-0f5f11375f41">
+<img width="422" alt="Ekran Resmi 2024-12-10 11 39 57" src="https://github.com/user-attachments/assets/78ca700c-4472-43ab-91ae-601146238ee7">
+<img width="619" alt="Ekran Resmi 2024-12-10 11 40 22" src="https://github.com/user-attachments/assets/e9ec6580-0d90-45fc-9a38-60bfcbe8c4b5">
 
 ---
 
